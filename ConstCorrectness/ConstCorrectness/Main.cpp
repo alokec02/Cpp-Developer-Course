@@ -100,7 +100,7 @@ void cp2cd()
 
 void noChange(const double* const someValue)
 {
-	cout << "No change" << endl;
+	cout << *someValue << endl;
 	const double* const doublePtr = new double;
 
 
