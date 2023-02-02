@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\aloke\source\repos\DynamicFileRectangle\DynamicFileRectangle\main.cpp(23,6): warning C4101: 'width': unreferenced local variable
+C:\Users\aloke\source\repos\DynamicFileRectangle\DynamicFileRectangle\main.cpp(22,6): warning C4101: 'length': unreferenced local variable
+  DynamicFileRectangle.vcxproj -> C:\Users\aloke\source\repos\DynamicFileRectangle\x64\Debug\DynamicFileRectangle.exe
