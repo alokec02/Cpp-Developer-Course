@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\aloke\source\repos\AlgorithmFun\AlgorithmFun\main.cpp(36,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\aloke\source\repos\AlgorithmFun\AlgorithmFun\main.cpp(54,15): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  AlgorithmFun.vcxproj -> C:\Users\aloke\source\repos\AlgorithmFun\x64\Debug\AlgorithmFun.exe
