@@ -1,0 +1,3 @@
+﻿  Dictionary.cpp
+C:\Users\aloke\source\repos\DictionaryProject\DictionaryProject\Dictionary.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  DictionaryProject.vcxproj -> C:\Users\aloke\source\repos\DictionaryProject\x64\Debug\DictionaryProject.exe
